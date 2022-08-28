@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gophercises/exercise02/urlshort"
+	"github.com/sadex11/gopher02urlshorthener"
 	"net/http"
 )
 
